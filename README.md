@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# Karyakoot
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Karyakoot is a simple todo web application built with React. It provides functionality to manage your tasks efficiently with features such as adding, deleting, and viewing todos. The application also includes routing for an About and Contact page.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Add Todos**: Create new todos with a title and description.
+- **Delete Todos**: Remove existing todos.
+- **Persistent Storage**: Todos are saved in `localStorage` to persist data across page reloads.
+- **Routing**: Navigate between Home, About, and Contact pages using React Router.
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/devmishra1708/Karyakoot.git
+
 
 ### `npm start`
 
